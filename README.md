@@ -28,3 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=balapoopi&show_icons=true&locale=en" alt="balapoopi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=balapoopi&" alt="balapoopi" /></p>
+![[Pasted image 20240730145117.png]]
